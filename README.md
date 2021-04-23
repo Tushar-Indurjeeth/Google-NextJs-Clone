@@ -14,7 +14,6 @@ A Google clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](http
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Hero Icons](https://heroicons.com/)
 - [tailwindcss-line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp)
-- [dotenv](https://www.npmjs.com/package/dotenv)
 
 ## Platform
 Hosted through [Vercel](https://vercel.com/).
