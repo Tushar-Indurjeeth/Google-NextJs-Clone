@@ -2,7 +2,7 @@
 A Google clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Live demo
-[https://google-next-js-clone.vercel.app/](https://google-next-js-clone.vercel.app/)
+[https://google-clone.tushar.co.za/](https://google-clone.tushar.co.za/)
 
 ## How it works
 - You search for anything by entering the search query in the search bar.
