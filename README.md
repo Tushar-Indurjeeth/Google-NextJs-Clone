@@ -1,9 +1,6 @@
 # Google Clone
 A Google clone built using [NextJs](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
-## Live demo
-[https://google-clone.tushar.co.za/](https://google-clone.tushar.co.za/)
-
 ## How it works
 - You search for anything by entering the search query in the search bar.
 - There after you can click on the link and visit the website.
